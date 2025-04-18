@@ -1,4 +1,4 @@
-<h2 align="left">- Hi 👋! My name is Ram Vaid<br>- I am a Software Developer<br>-🏠  Jammu and Kashmir,India<br>- 🔭 I’m currently working on Student Performance Predictor ML project<br>- 🌱 I’m currently learning Dockers and DL<br>- 🔍 I’m looking for Software and ML engineer roles<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love WWE</h2>
+<h2 align="left">-👋 Hi! My name is Ram Vaid<br>-💻  I am a Software Developer<br>-🏠  Jammu and Kashmir,India<br>- 🔭 I’m currently working on Student Performance Predictor which is a end to end ML project<br>- 🌱 I’m currently learning Dockers and DL<br>- 🔍 I’m looking for Software and ML engineer roles<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love WWE</h2>
 
 ###
 
